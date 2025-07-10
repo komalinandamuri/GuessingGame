@@ -4,3 +4,5 @@
 
 * There were 23 lines in guessinggame.sh
 
+* This repo was made for my coursera certification
+
